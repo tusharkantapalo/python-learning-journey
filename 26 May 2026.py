@@ -4,4 +4,5 @@ print(id(x))
 print(x)
 y=input("Enter y: ")
 print(y) #this will print the address in C but not in Python
-print("Hello world")
+print("Hello \n world") #new line character
+print("I am Tushar")
