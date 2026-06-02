@@ -1,0 +1,5 @@
+s = set()
+s.add(5)
+print(s)
+s.remove(5)
+print(s)
