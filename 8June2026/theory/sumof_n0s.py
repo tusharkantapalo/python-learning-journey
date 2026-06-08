@@ -17,5 +17,7 @@ for i in range(len(l)):
     for j in range(i + 1, len(l)):
         if l[i] + l[j] == target:
             l1.append((l[i], l[j]))
+else:
+    print("Not found")
 
 print(f"The pairs are: {l1}")
