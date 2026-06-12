@@ -1,2 +1,2 @@
 # daily_classes
-<p>It has the codes done in the live class</p>
+<p>It has the codes done of the live class</p>
