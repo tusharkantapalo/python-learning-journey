@@ -22,7 +22,7 @@ A comprehensive collection of Python programs, exercises, notes, and coding prac
 <p>
 This repository serves as a comprehensive learning archive of everything covered during the
 <b>Freshman Engineering Internship</b>. It contains the Python programs, coding exercises,
-classwork, and practice problems completed during the live sessions.
+classwork, practice problems, and assignments completed during the live sessions.
 </p>
 
 <p>
@@ -92,72 +92,109 @@ problem-solving skills, debugging techniques, and coding practices using Python.
 <h2>📂 Repository Structure</h2>
 
 <pre>
-daily_classes/
+python-learning-journey/
 │
-├── Day-01/
-│   └── Theory/
+├── assignments/
+│   │
+│   ├── exception-handling-debuging/
+│   │
+│   ├── oop-inheritance/
+│   │
+│   ├── optimization-problems/
+│   │
+│   ├── python-abstraction-polymorphism/
+│   │
+│   ├── python-class-object-oop/
+│   │
+│   ├── python-conditional-operators/
+│   │
+│   ├── python-dictionary-tuple/
+│   │
+│   ├── python-file-handling/
+│   │
+│   ├── python-functions-continue/
+│   │
+│   ├── python-functions/
+│   │
+│   ├── python-list-with-loops/
+│   │
+│   ├── python-map-lambda-filter/
+│   │
+│   ├── python-package-binary-search/
+│   │
+│   ├── string-and-loops/
+│   │
+│   ├── strings-and-for-loop/
+│   │
+│   └── student-report-generator/
 │
-├── Day-02/
-│   ├── Theory/
-│   └── Lab/
 │
-├── Day-03/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-04/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-05/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-06/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-07/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-08/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-09/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-10/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-11/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-12/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-13/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-14/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-15/
-│   ├── Theory/
-│   └── Lab/
-│
-├── Day-16/
-│   ├── Theory/
-│   └── Lab/
-│
-└── README.md
+└── daily_cls_wrk/
+    │
+    ├── Day-01/
+    │   └── Theory/
+    │
+    ├── Day-02/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-03/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-04/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-05/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-06/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-07/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-08/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-09/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-10/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-11/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-12/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-13/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-14/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-15/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    ├── Day-16/
+    │   ├── Theory/
+    │   └── Lab/
+    │
+    └── README.md
 </pre>
 
 <p>
