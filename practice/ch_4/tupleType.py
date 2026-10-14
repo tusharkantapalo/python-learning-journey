@@ -7,3 +7,6 @@ for i in range(0, n):
     tpl = tpl + (num,)
 
 print(tpl)
+tpl1 = float(tpl)
+
+print(tpl1)                                     #error is showing
